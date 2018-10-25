@@ -38,11 +38,11 @@ Foram realizados estudos dos dados disponibilizados, carga dos dados no formato 
 
 A segunda tarefa, **"Realizar uma análise exploratória dos dados utilizando visualização de dados, análise estatística e análise de séries temporais"** foi desenvolvida na linguagem R.
 
-[Link direto para Tarefa 2.]()
+[Link direto para Tarefa 2.](https://github.com/gsabato/DesafioSolarview/blob/master/02-analise_exploratoria/task02.R)
 
 ### **Tarefa 3**
 
 A terceira tarefa, **"Gerar um relatório sobre o consumo de energia em Megawatts"** foi desenvolvida na linguagem Python.
 
-[Link direto para Tarefa 3.]()
+[Link direto para Tarefa 3.](https://github.com/gsabato/DesafioSolarview/blob/master/03-relatorio/task03.ipynb)
 

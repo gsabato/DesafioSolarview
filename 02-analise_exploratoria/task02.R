@@ -12,12 +12,6 @@ getwd()
 #install.packages("zoo")
 library(zoo)
 library(ggplot2)
-#install.packages("lubridate")
-#library(lubridate)
-#install.packages("fBasics")
-#library(fBasics)
-#install.packages("fBasics")
-#library(fBasics)
 
 # Pré-processamento
 ## Carregando o arquivo csv resultante da task01
@@ -62,5 +56,3 @@ for (colName in colnames(my.dfts)) {
 start(my.dfts)
 end(my.dfts)
 frequency(my.dfts)
-#cycle(my.dfts)
-decompose(my.dfts)

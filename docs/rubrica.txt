@@ -1,0 +1,1 @@
+Executar o arquivo "desafio_solarview.ipynb" nele você encontrara todas as instruções.
